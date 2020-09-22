@@ -6,4 +6,4 @@ iPhone AR Sample for iOSDC 2020
 ## Hot to use
 * Build and activate app
 * Point the camera at the table
-* tap iPhone on the table
+* Tap iPhone on the table
